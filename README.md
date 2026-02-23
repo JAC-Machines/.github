@@ -1,4 +1,3 @@
-# .github
 # 🥖 JAC – Fabricant de matériel professionnel de boulangerie
 
 Depuis **1946**, JAC conçoit et fabrique du matériel professionnel pour la boulangerie, reconnu pour son **innovation**, sa **qualité** et sa **robustesse**. L’entreprise est spécialisée dans la **mécanisation de la pâte** et le **tranchage du pain**, en gardant toujours la satisfaction client au centre de ses priorités.
